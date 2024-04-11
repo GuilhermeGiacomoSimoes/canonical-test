@@ -24,3 +24,6 @@ help:
 	@echo
 	@echo "To execute a unit tests: make test"
 	@echo
+	@echo "To clear the repositorie code: make clean"
+	@echo
+
