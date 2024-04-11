@@ -16,3 +16,11 @@ source_test.o: test/test.c src/event_notifier.c src/event_notifier_test.c
 
 clean:
 	find . -name "*.o" -exec rm -rf {} +
+
+help:
+	@echo "-- HELP --"
+	@echo
+	@echo "To compile a example work: make"
+	@echo
+	@echo "To execute a unit tests: make test"
+	@echo

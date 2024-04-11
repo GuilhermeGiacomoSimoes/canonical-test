@@ -1,12 +1,10 @@
 ### CANONICAL - TEST
 
 ## HOW EXECUTE A EXAMPLE
-only run make
-`make`
+only run `make`
 
 ## HOW EXECUTE UNIT TESTS
-only run
-`make test`
+only run `make test`
 
 <br>
-run make help for more informations
+run `make help` for more informations
